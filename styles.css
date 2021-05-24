@@ -1,5 +1,5 @@
 body {
-    background-image: url("/bar.jpg");
+    background-image: url("bar.jpg");
     background-color: #000; 
     margin-top: 20%;
     background-position: center; 
