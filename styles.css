@@ -1,6 +1,5 @@
 body {
-    background-image: url("./bar.jpg");
-    background-color: #000; 
+    background: linear-gradient(#e66465, #9198e5);
     margin-top: 20%;
     background-position: center; 
     background-repeat: no-repeat;
@@ -33,17 +32,14 @@ button {
 }
 
 #increment-btn {
-    background:#8B008B;
+    background:#e66465;
 }
 
 #save-btn {
-    background: #BA55D3;
+    background: #e66465;
 }
 
-#clear-btn {
-    background: #9400D3;
-}
 
 #erase-btn {
-    background: #FF00FF;
+    background: #e66465;
 }
